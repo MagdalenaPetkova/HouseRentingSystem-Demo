@@ -1,0 +1,20 @@
+pipeline {
+  agent any  // This can be changed to a specific agent if needed
+  stages {
+    stage('Restore') {
+      steps {
+        bat "dotnet restore Houserentingsysten.sln"
+      }
+    }
+    stage('Build') {
+      steps {
+        bat "dotnet build HouseRentingSysten.sln --configuration Release"
+      }
+    }
+    stage('Test') {
+      steps {
+        bat "dotnet test HouseRentingSysten.Tests/HouseRentingSysten.Tests.csproj"
+      }
+    }
+  }
+}
