@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Restore') {
       steps {
-        bat "dotnet restore HouseRentingSysten.sln"
+        bat "dotnet restore HouseRentingSystem.sln"
       }
     }
     stage('Build') {
