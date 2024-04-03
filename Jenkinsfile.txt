@@ -1,9 +1,9 @@
 pipeline {
-  agent any  // This can be changed to a specific agent if needed
+  agent any
   stages {
     stage('Restore') {
       steps {
-        bat "dotnet restore Houserentingsysten.sln"
+        bat "dotnet restore HouseRentingSysten.sln"
       }
     }
     stage('Build') {

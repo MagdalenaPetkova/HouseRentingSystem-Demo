@@ -10,3 +10,4 @@ D:\BackEndMarch\12-Continuous-Integration-II-Resources\02-House-Renting-System-A
 D:\BackEndMarch\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
 D:\BackEndMarch\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
 D:\BackEndMarch\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
+D:\BackEndMarch\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.sourcelink.json

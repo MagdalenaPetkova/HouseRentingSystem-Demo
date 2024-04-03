@@ -355,3 +355,4 @@ D:\BackEndMarch\12-Continuous-Integration-II-Resources\02-House-Renting-System-A
 D:\BackEndMarch\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.pdb
 D:\BackEndMarch\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.genruntimeconfig.cache
 D:\BackEndMarch\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\ref\HouseRentingSystem.Tests.dll
+D:\BackEndMarch\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.sourcelink.json
