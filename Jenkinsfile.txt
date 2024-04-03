@@ -13,7 +13,7 @@ pipeline {
     }
     stage('Test') {
       steps {
-        bat "dotnet test HouseRentingSystem.Tests/HouseRentingSysten.Tests.csproj"
+        bat "dotnet test HouseRentingSystem.Tests/HouseRentingSystem.Tests.csproj"
       }
     }
   }
