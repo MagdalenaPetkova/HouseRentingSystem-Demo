@@ -8,12 +8,12 @@ pipeline {
     }
     stage('Build') {
       steps {
-        bat "dotnet build HouseRentingSysten.sln --configuration Release"
+        bat "dotnet build HouseRentingSystem.sln --configuration Release"
       }
     }
     stage('Test') {
       steps {
-        bat "dotnet test HouseRentingSysten.Tests/HouseRentingSysten.Tests.csproj"
+        bat "dotnet test HouseRentingSystem.Tests/HouseRentingSysten.Tests.csproj"
       }
     }
   }
